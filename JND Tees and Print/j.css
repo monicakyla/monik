@@ -1,0 +1,44 @@
+
+body {
+font-family: Arial, sans-serif;
+background-color: darkslategray;
+margin: 0;
+padding: 0;
+}
+
+header {
+background-color: darkseagreen;
+padding: 20px 0;
+text-align: center;
+}
+
+.container {
+width: 80%;
+margin: 0 auto;
+}
+
+nav a {
+color: darkseagreen;
+text-decoration: white;
+margin: 0 10px;
+}
+
+section {
+padding: 50px 0;
+text-align: center;
+}
+
+.services {
+background-color: antiquewhite;
+margin-top: 20px;
+}
+
+footer {
+background-color: cadetblue;
+padding: 20px 0;
+text-align: center;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+
